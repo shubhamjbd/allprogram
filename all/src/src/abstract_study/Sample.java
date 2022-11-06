@@ -1,4 +1,4 @@
-package abstract_study;
+package src.abstract_study;
 
 public abstract  class Sample
 {

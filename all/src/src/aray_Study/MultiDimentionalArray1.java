@@ -1,4 +1,4 @@
-package aray_Study;
+package src.aray_Study;
 
 public class MultiDimentionalArray1 {
 

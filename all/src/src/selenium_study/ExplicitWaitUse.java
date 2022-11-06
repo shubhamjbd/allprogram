@@ -1,4 +1,4 @@
-package selenium_study;
+package src.selenium_study;
 
 import java.time.Duration;
 

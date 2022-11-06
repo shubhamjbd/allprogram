@@ -1,4 +1,4 @@
-package selenium_study;
+package src.selenium_study;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

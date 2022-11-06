@@ -1,4 +1,4 @@
-package access_specifier;
+package src.access_specifier;
 
 public class AS2 {
 
